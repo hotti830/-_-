@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Upscaler & Background Remover",
+  "description": "Upscale images up to 8x using AI and remove white backgrounds for transparent PNGs.",
+  "requestFramePermissions": []
+}
